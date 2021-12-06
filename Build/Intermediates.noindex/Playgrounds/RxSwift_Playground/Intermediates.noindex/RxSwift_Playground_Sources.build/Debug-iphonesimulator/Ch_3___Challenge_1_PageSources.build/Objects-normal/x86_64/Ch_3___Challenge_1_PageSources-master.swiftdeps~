@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "43dcb4a8731525cb620bcbbcd5f6c0e00cdfebc52facc11cafde01bfd5670e10"
+build_start_time: [1638547581, 255470037]
+build_end_time: [1638547581, 919454097]
+inputs:
+  ? "/Users/danielpitts/Desktop/RxSwift-Demo/RxSwift-Playground.playground/Pages/Ch 3 - Challenge 1.xcplaygroundpage/Sources/SupportCode.swift"
+  : [1637776756, 618591547]

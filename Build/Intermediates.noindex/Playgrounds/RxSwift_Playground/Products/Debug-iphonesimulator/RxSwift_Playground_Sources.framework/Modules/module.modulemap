@@ -1,0 +1,4 @@
+framework module RxSwift_Playground_Sources {
+  export *
+  module RxSwift_Playground_Sources { export * }
+}

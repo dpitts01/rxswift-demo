@@ -1,0 +1,12 @@
+{
+  "source": "/Users/danielpitts/Desktop/RxSwift-Demo/Shared/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

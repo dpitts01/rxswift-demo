@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "2e055599eb31085d24b85d55f50a510420a94e52aad691ea535cd81fa8aadc92"
+build_start_time: [1638560729, 751449108]
+build_end_time: [1638560729, 829473018]
+inputs:
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxRelay/RxRelay/BehaviorRelay.swift": [1637268438, 833923339]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxRelay/RxRelay/Observable+Bind.swift": [1637268438, 833218574]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxRelay/RxRelay/PublishRelay.swift": [1637268438, 832359313]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxRelay/RxRelay/ReplayRelay.swift": [1637268438, 832837581]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxRelay/RxRelay/Utils.swift": [1637268438, 833579540]

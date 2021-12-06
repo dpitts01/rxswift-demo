@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "0ac94f05c326db5f52409c199e01ee2a70d3aa2d0f61321161a7ec3b5b393d37"
+build_start_time: [1638560697, 660338878]
+build_end_time: [1638560698, 216379165]
+inputs:
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Shared/ContentView.swift": [1637269981, 423747062]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Shared/RxSwift_DemoApp.swift": [1637269981, 424141407]

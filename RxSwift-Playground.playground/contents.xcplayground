@@ -2,9 +2,12 @@
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Ch 1'/>
-        <page name='Ch 2'/>
-        <page name='Ch 3'/>
+        <page name='Ch 2 - Observable + Subscribe'/>
+        <page name='Ch 3 - Subjects + Relays'/>
         <page name='Ch 3 - Challenge 1'/>
         <page name='Ch 3 - Challenge 2'/>
+        <page name='Ch 4'/>
+        <page name='Ch 5 - Filtering Operators'/>
+        <page name='Ch 5 - Challenge'/>
     </pages>
 </playground>

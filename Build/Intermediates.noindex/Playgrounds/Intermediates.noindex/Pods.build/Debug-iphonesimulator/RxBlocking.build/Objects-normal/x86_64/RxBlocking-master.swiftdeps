@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "2e055599eb31085d24b85d55f50a510420a94e52aad691ea535cd81fa8aadc92"
+build_start_time: [1638547569, 26916027]
+build_end_time: [1638547570, 926534175]
+inputs:
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/AtomicInt.swift": [1637266906, 462165832]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/DataStructures/Bag.swift": [1637266906, 462710857]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/DataStructures/InfiniteSequence.swift": [1637266906, 463618993]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/DataStructures/PriorityQueue.swift": [1637266906, 462997198]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/DataStructures/Queue.swift": [1637266906, 463303089]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/DispatchQueue+Extensions.swift": [1637266906, 461848735]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/Platform.Darwin.swift": [1637266906, 461418628]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/Platform.Linux.swift": [1637266906, 463951349]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/Platform/RecursiveLock.swift": [1637266906, 464348316]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/RxBlocking/BlockingObservable+Operators.swift": [1637266906, 467196941]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/RxBlocking/BlockingObservable.swift": [1637266906, 465492248]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/RxBlocking/ObservableConvertibleType+Blocking.swift": [1637266906, 465916633]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/RxBlocking/Resources.swift": [1637266906, 466792106]
+  "/Users/danielpitts/Desktop/RxSwift-Demo/Pods/RxBlocking/RxBlocking/RunLoopLock.swift": [1637266906, 466475486]

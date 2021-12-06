@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "0e543bc9fe51c62cb5945e6835456a371dee4b1816d882f1c5697b17446e7d0d"
+build_start_time: [1638547579, 821158885]
+build_end_time: [1638547581, 186401844]
+inputs:
+  "/Users/danielpitts/Desktop/RxSwift-Demo/RxSwift-Playground.playground/Sources/Example.swift": [1637704741, 523859262]
